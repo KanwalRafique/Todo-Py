@@ -1,6 +1,30 @@
 [
     {
         "task": "I will go to market tomorrow",
+        "done": true
+    },
+    {
+        "task": "I will go to market tomorrow",
+        "done": false
+    },
+    {
+        "task": "I will go to school",
+        "done": false
+    },
+    {
+        "task": "give tution",
+        "done": false
+    },
+    {
+        "task": "cooking",
+        "done": false
+    },
+    {
+        "task": "Assignments",
+        "done": false
+    },
+    {
+        "task": "Online class",
         "done": false
     }
 ]
